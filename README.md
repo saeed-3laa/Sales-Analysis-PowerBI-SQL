@@ -38,7 +38,7 @@ This project showcases a complete sales analytics solution using Power BI and SQ
 
 ## 📌 Key Insights
 
-1. **Total Sales** reached $3.42M, with an **achievement rate of 164.6%**.
+1. **Total Sales** reached $3.42M, with an **achievement rate of 1646%**.
 2. **Flat Plains** region led with $1.35M, while **Atlantic** lagged behind at $0.89M.
 3. **Office 365** was the best-selling product ($0.43M), whereas **Neon Blue** had the lowest sales ($0.02M).
 4. **Magenta segment** performed strongly ($0.16M).
